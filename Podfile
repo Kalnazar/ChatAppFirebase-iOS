@@ -9,6 +9,8 @@ pod 'Firebase/Core'
 pod 'Firebase/Auth'
 pod 'Firebase/Database'
 
+pod 'Alamofire'
+  
 pod 'MessageKit'
 pod 'JGProgressHUD'
 pod 'RealmSwift'
