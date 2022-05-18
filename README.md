@@ -7,3 +7,7 @@ Open terminal and write next lines in terminal:
 cd Path\To\Project
 pod install
 ```
+
+## Pods
+You can also see all used pods in "Podfile".
+Used pods:
