@@ -20,3 +20,5 @@ Used pods:
 - pod 'SDWebImage'
 
 <br/>You can also see all used pods in "Podfile".
+
+## Screenshots
