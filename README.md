@@ -18,4 +18,5 @@ Used pods:
 - pod 'JGProgressHUD'
 - pod 'RealmSwift'
 - pod 'SDWebImage'
+
 <br/>You can also see all used pods in "Podfile".
