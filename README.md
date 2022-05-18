@@ -9,5 +9,13 @@ pod install
 ```
 
 ## Pods
-You can also see all used pods in "Podfile".
 Used pods:
+- pod 'Firebase/Core'
+- pod 'Firebase/Auth'
+- pod 'Firebase/Database'
+- pod 'Alamofire'
+- pod 'MessageKit'
+- pod 'JGProgressHUD'
+- pod 'RealmSwift'
+- pod 'SDWebImage'
+You can also see all used pods in "Podfile".
